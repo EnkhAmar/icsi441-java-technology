@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exercise2">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/CreateTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/LinkingTwoFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/RemoveFirstK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/LinkingTwoFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/LinkingTwoFiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676432299380</updated>
       <workItem from="1676432301168" duration="3194000" />
-      <workItem from="1676440609443" duration="11776000" />
+      <workItem from="1676440609443" duration="11969000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -116,7 +112,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676451898258</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update gitignore">
+      <created>1676455641888</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676455641888</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CreateTextFile">
+      <created>1676455653547</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676455653547</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LinkingTwoFiles">
+      <created>1676455660185</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676455660185</updated>
+    </task>
+    <task id="LOCAL-00012" summary="RemoveFirstK">
+      <created>1676455664828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676455664828</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change">
+      <created>1676455672987</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676455672987</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +160,11 @@
     <MESSAGE value="LetterCounter" />
     <MESSAGE value="exercise1" />
     <MESSAGE value="exercise2" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise2" />
+    <MESSAGE value="update gitignore" />
+    <MESSAGE value="CreateTextFile" />
+    <MESSAGE value="LinkingTwoFiles" />
+    <MESSAGE value="RemoveFirstK" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
 </project>
