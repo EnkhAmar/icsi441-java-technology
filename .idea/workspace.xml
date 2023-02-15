@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="change">
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="LinkingTwoFiles">
+      <change afterPath="$PROJECT_DIR$/src/lab2/createLargeDataSet/CreateLargeDataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/createLargeDataSet/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/LinkingTwoFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/LinkingTwoFiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676432299380</updated>
       <workItem from="1676432301168" duration="3194000" />
-      <workItem from="1676440609443" duration="11969000" />
+      <workItem from="1676440609443" duration="14441000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676455672987</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="LinkingTwoFiles">
+      <created>1676455827040</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676455827040</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,9 +170,9 @@
     <MESSAGE value="exercise2" />
     <MESSAGE value="update gitignore" />
     <MESSAGE value="CreateTextFile" />
-    <MESSAGE value="LinkingTwoFiles" />
     <MESSAGE value="RemoveFirstK" />
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value="LinkingTwoFiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkingTwoFiles" />
   </component>
 </project>
