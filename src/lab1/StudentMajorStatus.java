@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-// @student: G.Enkh-Amar /18b1bnum0399/
+// @student: G.Enkh-Amar /18b1num0399/
 // Exercise 4.18. (Student major and status)
 public class StudentMajorStatus {
     public static void main(String[] args) {
@@ -15,24 +15,18 @@ public class StudentMajorStatus {
         String yearName = "";
         if (major == 'I' || major == 'C' || major == 'A') {
             switch (major) {
-                case 'I':
-                    courseName = "Information Management";
-                    break;
-                case 'C':
-                    courseName = "Computer Science";
-                    break;
-                case 'A':
-                    courseName = "Accounting";
-                    break;
-                default:
-                    break;
+                case 'I' -> courseName = "Information Management";
+                case 'C' -> courseName = "Computer Science";
+                case 'A' -> courseName = "Accounting";
+                default -> {
+                }
             }
             switch (year) {
                 case '1':
                     yearName = "Freshman";
                     break;
                 case '2':
-                    yearName = "Sophmore";
+                    yearName = "Sophomore";
                     break;
                 case '3':
                     yearName = "Junior";
