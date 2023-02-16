@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exercise4">
-      <change afterPath="$PROJECT_DIR$/src/assignment1/B5.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exercise5">
+      <change afterPath="$PROJECT_DIR$/src/assignment1/B6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <updated>1676432299380</updated>
       <workItem from="1676432301168" duration="3194000" />
       <workItem from="1676440609443" duration="16480000" />
-      <workItem from="1676514924523" duration="9334000" />
+      <workItem from="1676514924523" duration="16494000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676520795297</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="exercise5">
+      <created>1676528802305</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676528802305</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +225,7 @@
     <MESSAGE value="exercise2" />
     <MESSAGE value="exercise3" />
     <MESSAGE value="exercise4" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise4" />
+    <MESSAGE value="exercise5" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise5" />
   </component>
 </project>
