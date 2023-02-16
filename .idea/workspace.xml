@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exercise6">
-      <change afterPath="$PROJECT_DIR$/src/assignment1/B7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exercise7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,7 @@
       <updated>1676432299380</updated>
       <workItem from="1676432301168" duration="3194000" />
       <workItem from="1676440609443" duration="16480000" />
-      <workItem from="1676514924523" duration="20293000" />
+      <workItem from="1676514924523" duration="20619000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -211,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676545348629</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="exercise7">
+      <created>1676559742658</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676559742658</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +238,7 @@
     <MESSAGE value="exercise4" />
     <MESSAGE value="exercise5" />
     <MESSAGE value="exercise6" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise6" />
+    <MESSAGE value="exercise7" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise7" />
   </component>
 </project>
