@@ -9,13 +9,43 @@ import java.util.Scanner;
 // B2. Текст  өгөгдөв. Хамгийн  олон  дараалсан цифрүүдийн  тоог  ол.Эдгээр цифрүүдийн нийлбэр ол.
 
 public class B2 {
-    public static void main(String[] args) {
+
+    class Result {
+        int index;
+        int number;
+        int sumConsecutive;
+        int maxConsecutive;
+
+        public Result(int index, int number, int sumConsecutive, int maxConsecutive) {
+            this.index = index;
+            this.number = number;
+            this.sumConsecutive = sumConsecutive;
+            this.maxConsecutive = maxConsecutive;
+        }
+
+        @Override
+        public String toString() {
+            return "Result{" +
+                    "index=" + index +
+                    ", Цифр=" + number +
+                    ", Цифрүүдийн нийлбэр=" + sumConsecutive +
+                    ", Давтагдсан тоо=" + maxConsecutive +
+                    '}';
+        }
+    }
+
+    public B2() {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter number: ");
         String text = in.nextLine();
         int[] _digits = getDigits(text);
         System.out.println(Arrays.toString(_digits));
-        System.out.println(calculateMaxConsecutive(_digits));
+        Result result = calculateMaxConsecutive(_digits);
+        System.out.println(result);
+    }
+
+    public static void main(String[] args) {
+        new B2();
     }
 
     public static int[] getDigits(String _text) {
@@ -29,7 +59,7 @@ public class B2 {
 //        System.out.println(Arrays.toString(digits));
     }
 
-    public static int calculateMaxConsecutive(int[] digits) {
+    public Result calculateMaxConsecutive(int[] digits) {
         int maxConsecutive = 0;
         int currentConsecutive = 0;
         int startIndex = 0;
@@ -48,6 +78,11 @@ public class B2 {
             maxConsecutive = currentConsecutive;
             startIndex = digits.length - currentConsecutive;
         }
-        return maxConsecutive;
+        int sumConsecutive = 0;
+        for (int i = startIndex; i < startIndex + maxConsecutive; i++) {
+            sumConsecutive += digits[i];
+        }
+        Result result = new Result(startIndex, digits[startIndex], sumConsecutive, maxConsecutive);
+        return result;
     }
 }
