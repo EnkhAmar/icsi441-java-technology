@@ -26,7 +26,7 @@ public class CreateTextFile {
         output.close();
     }
     void readFromFile(File file) throws FileNotFoundException {
-        fromFile = new File("resources/abc.txt");
+        fromFile = new File("test/resources/abc.txt");
         Scanner reader = new Scanner(fromFile);
         while (reader.hasNext()) {
             System.out.println(reader.nextLine());
