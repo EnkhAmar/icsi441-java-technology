@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment 2 - exercise 1">
-      <change afterPath="$PROJECT_DIR$/src/assignment2/ex2.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment 2 - exercise 2">
+      <change afterPath="$PROJECT_DIR$/src/assignment2/ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <workItem from="1676432301168" duration="3194000" />
       <workItem from="1676440609443" duration="16480000" />
       <workItem from="1676514924523" duration="21415000" />
-      <workItem from="1677419368255" duration="1468000" />
+      <workItem from="1677419368255" duration="2806000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -239,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677420264205</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="assignment 2 - exercise 2">
+      <created>1677420859164</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677420859164</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +272,7 @@
     <MESSAGE value="exercise7" />
     <MESSAGE value="assignment 1" />
     <MESSAGE value="assignment 2 - exercise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 2 - exercise 1" />
+    <MESSAGE value="assignment 2 - exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 2 - exercise 2" />
   </component>
 </project>
