@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exercise7" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assignment2/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,9 +42,15 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +61,8 @@
       <updated>1676432299380</updated>
       <workItem from="1676432301168" duration="3194000" />
       <workItem from="1676440609443" duration="16480000" />
-      <workItem from="1676514924523" duration="20619000" />
+      <workItem from="1676514924523" duration="21415000" />
+      <workItem from="1677419368255" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -215,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676559742658</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="assignment 1">
+      <created>1676560113535</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676560113535</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +256,7 @@
     <MESSAGE value="exercise5" />
     <MESSAGE value="exercise6" />
     <MESSAGE value="exercise7" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise7" />
+    <MESSAGE value="assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 1" />
   </component>
 </project>
