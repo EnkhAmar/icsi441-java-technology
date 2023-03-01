@@ -1,6 +1,6 @@
 package lab3;
 
-public class Ellipses extends GeometricObject {
+public class Ellipses extends GeometricObject implements  Colorable {
     double r1, r2;
 
     public Ellipses() {
@@ -14,6 +14,22 @@ public class Ellipses extends GeometricObject {
     public Ellipses(String color, boolean filled, double r1, double r2) {
         super(color, filled);
         this.r1 = r1;
+        this.r2 = r2;
+    }
+
+    public double getR1() {
+        return r1;
+    }
+
+    public void setR1(double r1) {
+        this.r1 = r1;
+    }
+
+    public double getR2() {
+        return r2;
+    }
+
+    public void setR2(double r2) {
         this.r2 = r2;
     }
 
@@ -36,5 +52,10 @@ public class Ellipses extends GeometricObject {
                 ", периметер=" + getPerimeter() +
                 ", будагсан эсэх=" + getColor() +
                 '}';
+    }
+
+    @Override
+    public void howToColor() {
+        System.out.println("Хүрээний шугамыг буд");
     }
 }
