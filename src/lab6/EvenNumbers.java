@@ -6,6 +6,13 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Random;
 
+
+// @student: G.Enkh-Amar
+/*
+Санамсаргүйгээр бүхэл тоонуудыг үүсгэж файлд хадгална. Тэдгээр тоонуудын хэдэн хувь нь тэгш
+тоо болохыг олдог програм бич.
+ */
+
 public class EvenNumbers {
     int num;
     String file = "test/resources/data.out";
