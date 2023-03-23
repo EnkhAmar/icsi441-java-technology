@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class ex1 {
-    String file = "test/resources/assignment3-ex1.bin";
+    String file = "test/resources/assignment4-ex1.bin";
     DataOutputStream dout;
     DataInputStream din;
 

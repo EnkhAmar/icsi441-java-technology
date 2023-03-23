@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="lab7">
-      <change afterPath="$PROJECT_DIR$/src/assignment3/ex1.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment4">
+      <change afterPath="$PROJECT_DIR$/src/assignment4/BinaryFile-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/ex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment4/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment4/ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment4" />
+      <recent name="$PROJECT_DIR$/src/assignment3" />
       <recent name="$PROJECT_DIR$/src/assignment1" />
     </key>
   </component>
@@ -67,7 +71,7 @@
       <workItem from="1677661014881" duration="8205000" />
       <workItem from="1678862434959" duration="6336000" />
       <workItem from="1679475721162" duration="6962000" />
-      <workItem from="1679574040452" duration="2668000" />
+      <workItem from="1679574040452" duration="7322000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -356,14 +360,27 @@
       <option name="project" value="LOCAL" />
       <updated>1679482273025</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="assignment4">
+      <created>1679576801939</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679576801939</updated>
+    </task>
+    <task id="LOCAL-00043" summary="assignment4">
+      <created>1679576823580</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679576823580</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LetterCounter" />
     <MESSAGE value="exercise1" />
     <MESSAGE value="update gitignore" />
     <MESSAGE value="LinkingTwoFiles" />
@@ -388,6 +405,7 @@
     <MESSAGE value="lab3" />
     <MESSAGE value="lab6" />
     <MESSAGE value="lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab7" />
+    <MESSAGE value="assignment4" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment4" />
   </component>
 </project>
