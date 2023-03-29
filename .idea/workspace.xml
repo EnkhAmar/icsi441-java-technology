@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment4">
-      <change afterPath="$PROJECT_DIR$/src/assignment5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment5/ex1.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment5">
+      <change afterPath="$PROJECT_DIR$/src/assignment5/Election.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +49,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment5" />
       <recent name="$PROJECT_DIR$/src/assignment4" />
       <recent name="$PROJECT_DIR$/src/assignment3" />
       <recent name="$PROJECT_DIR$/src/assignment1" />
@@ -71,7 +71,7 @@
       <workItem from="1678862434959" duration="6336000" />
       <workItem from="1679475721162" duration="6962000" />
       <workItem from="1679574040452" duration="11574000" />
-      <workItem from="1680061980415" duration="3460000" />
+      <workItem from="1680061980415" duration="6289000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676432422515</created>
@@ -388,14 +388,20 @@
       <option name="project" value="LOCAL" />
       <updated>1679585679630</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="assignment5">
+      <created>1680065672778</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1680065672778</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise1" />
     <MESSAGE value="update gitignore" />
     <MESSAGE value="LinkingTwoFiles" />
     <MESSAGE value="CreateLargeDataSet" />
@@ -420,6 +426,7 @@
     <MESSAGE value="lab6" />
     <MESSAGE value="lab7" />
     <MESSAGE value="assignment4" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment4" />
+    <MESSAGE value="assignment5" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment5" />
   </component>
 </project>
