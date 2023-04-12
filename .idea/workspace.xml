@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="exam mid term">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/Extremium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/PoolExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/Problem$04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/SumminTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/SynchronizeThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="lab 9 Thread" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,14 +71,7 @@
       <workItem from="1679574040452" duration="11574000" />
       <workItem from="1680061980415" duration="8957000" />
       <workItem from="1680079635570" duration="9133000" />
-      <workItem from="1680685541564" duration="5615000" />
-    </task>
-    <task id="LOCAL-00002" summary="initial commit">
-      <created>1676432811842</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1676432811842</updated>
+      <workItem from="1680685541564" duration="5636000" />
     </task>
     <task id="LOCAL-00003" summary="lab1">
       <created>1676433522389</created>
@@ -426,14 +409,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680685626900</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="lab 9 Thread">
+      <created>1680692795529</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1680692795529</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LinkingTwoFiles" />
     <MESSAGE value="CreateLargeDataSet" />
     <MESSAGE value="CreateTextFile" />
     <MESSAGE value="RemoveFirstK" />
@@ -458,7 +447,8 @@
     <MESSAGE value="assignment4" />
     <MESSAGE value="assignment5" />
     <MESSAGE value="exam mid term" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam mid term" />
+    <MESSAGE value="lab 9 Thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 9 Thread" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
