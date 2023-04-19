@@ -56,7 +56,7 @@ public class StringLengthTask extends RecursiveTask<int[]> {
     }
 
     public static void main(String[] args) {
-        String[] strings = {"", "", "cse", "box", "", "homework", "", "15", ""};
+        String[] strings = {"", "", "cse", "box", "", "homework", "", "15", "", "test"};
         int threshold = 2;
         StringLengthTask task = new StringLengthTask(strings, threshold);
         ForkJoinPool pool = new ForkJoinPool();

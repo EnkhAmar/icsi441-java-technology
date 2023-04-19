@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment 6">
-      <change afterPath="$PROJECT_DIR$/src/assignment7/StringLengthTask.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment 7">
+      <change afterPath="$PROJECT_DIR$/src/assignment7/Gardeners.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment7/StringLengthTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment7/StringLengthTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +86,7 @@
       <workItem from="1680079635570" duration="9133000" />
       <workItem from="1680685541564" duration="5636000" />
       <workItem from="1681291459173" duration="7016000" />
-      <workItem from="1681918096042" duration="307000" />
-    </task>
-    <task id="LOCAL-00008" summary="exercise2">
-      <created>1676451898258</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1676451898258</updated>
+      <workItem from="1681918096042" duration="1383000" />
     </task>
     <task id="LOCAL-00009" summary="update gitignore">
       <created>1676455641888</created>
@@ -430,14 +424,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681918160980</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="assignment 7">
+      <created>1681918412423</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1681918412423</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RemoveFirstK" />
     <MESSAGE value="exercise2" />
     <MESSAGE value="exercise3" />
     <MESSAGE value="exercise4" />
@@ -462,7 +462,8 @@
     <MESSAGE value="lab 9 Thread" />
     <MESSAGE value="lab 10 - Semaphore , Multithread" />
     <MESSAGE value="assignment 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 6" />
+    <MESSAGE value="assignment 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
