@@ -15,8 +15,8 @@ import java.util.concurrent.Executors;
 загварчилдаг олон трэдэт програм зохио.
  */
 public class Gardeners {
-    private static final int ROWS = 30;
-    private static final int COLS = 30;
+    private static final int ROWS = 20;
+    private static final int COLS = 80;
 
     public static void main(String[] args) throws InterruptedException {
         int[][] land = new int[ROWS][COLS];
