@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="lab 10 - Semaphore , Multithread">
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment 6">
+      <change afterPath="$PROJECT_DIR$/in_1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in_2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in_3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/MultiThreadedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/in_1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/in_2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/in_3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/result-ex1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Socket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab10/DonationAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab10/DonationAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/enkh-amarganbat/IdeaProjects/icsi441-java-technology&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,7 +59,15 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="assignment6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/assignment6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment6" />
       <recent name="$PROJECT_DIR$/src/assignment5" />
       <recent name="$PROJECT_DIR$/src/assignment4" />
       <recent name="$PROJECT_DIR$/src/assignment3" />
@@ -75,14 +93,8 @@
       <workItem from="1680061980415" duration="8957000" />
       <workItem from="1680079635570" duration="9133000" />
       <workItem from="1680685541564" duration="5636000" />
-      <workItem from="1681291459173" duration="3163000" />
-    </task>
-    <task id="LOCAL-00006" summary="LetterCounter">
-      <created>1676442386400</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1676442386400</updated>
+      <workItem from="1681291459173" duration="7016000" />
+      <workItem from="1681918096042" duration="48000" />
     </task>
     <task id="LOCAL-00007" summary="exercise1">
       <created>1676445587783</created>
@@ -420,14 +432,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681292900351</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="lab 10 - Semaphore , Multithread">
+      <created>1681303784150</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1681303784151</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CreateTextFile" />
     <MESSAGE value="RemoveFirstK" />
     <MESSAGE value="exercise2" />
     <MESSAGE value="exercise3" />
@@ -452,7 +470,8 @@
     <MESSAGE value="exam mid term" />
     <MESSAGE value="lab 9 Thread" />
     <MESSAGE value="lab 10 - Semaphore , Multithread" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 10 - Semaphore , Multithread" />
+    <MESSAGE value="assignment 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
