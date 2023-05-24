@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="lab 14" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="lab 14">
+      <change afterPath="$PROJECT_DIR$/src/assignment8/FirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/MaxAdjacentSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +66,48 @@
       <recent name="$PROJECT_DIR$/src/assignment3" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="FindMaxAdjacentSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment8.FindMaxAdjacentSum" />
+      <module name="icsi441-java-technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAdjacentSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxAdjacentSum" />
+      <module name="icsi441-java-technology" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAdjacentSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment8.MaxAdjacentSum" />
+      <module name="icsi441-java-technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxAdjacentSum" />
+        <item itemvalue="Application.MaxAdjacentSum (1)" />
+        <item itemvalue="Application.FindMaxAdjacentSum" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,13 +130,7 @@
       <workItem from="1681291459173" duration="7016000" />
       <workItem from="1681918096042" duration="1815000" />
       <workItem from="1683710668997" duration="1469000" />
-    </task>
-    <task id="LOCAL-00012" summary="RemoveFirstK">
-      <created>1676455664828</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1676455664828</updated>
+      <workItem from="1684908324592" duration="3740000" />
     </task>
     <task id="LOCAL-00013" summary="change">
       <created>1676455672987</created>
@@ -428,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683723069895</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="lab 14">
+      <created>1684908333000</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1684908333001</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
