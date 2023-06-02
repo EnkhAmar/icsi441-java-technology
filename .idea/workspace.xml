@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="midterm2">
-      <change afterPath="$PROJECT_DIR$/src/assignment9/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/InternetClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/InternetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/RiverInformation.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment9">
+      <change afterPath="$PROJECT_DIR$/src/final_exam/Exercise1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment9/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment9/Exercise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMaxAdjacentSum" />
         <item itemvalue="Application.MaxAdjacentSum" />
         <item itemvalue="Application.MaxAdjacentSum (1)" />
-        <item itemvalue="Application.FindMaxAdjacentSum" />
       </list>
     </recent_temporary>
   </component>
@@ -135,14 +129,8 @@
       <workItem from="1681291459173" duration="7016000" />
       <workItem from="1681918096042" duration="1815000" />
       <workItem from="1683710668997" duration="1469000" />
-      <workItem from="1684908324592" duration="16731000" />
-    </task>
-    <task id="LOCAL-00016" summary="CreateTextFile">
-      <created>1676516769775</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1676516769776</updated>
+      <workItem from="1684908324592" duration="16800000" />
+      <workItem from="1685667821425" duration="3684000" />
     </task>
     <task id="LOCAL-00017" summary="RemoveFirstK">
       <created>1676516778953</created>
@@ -480,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684922147540</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="assignment9">
+      <created>1684927664906</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1684927664906</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,9 +505,9 @@
     <MESSAGE value="assignment 7" />
     <MESSAGE value="lab 14" />
     <MESSAGE value="assignment8" />
-    <MESSAGE value="assignment9" />
     <MESSAGE value="midterm2" />
-    <option name="LAST_COMMIT_MESSAGE" value="midterm2" />
+    <MESSAGE value="assignment9" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
