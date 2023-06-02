@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="assignment9">
-      <change afterPath="$PROJECT_DIR$/src/final_exam/Exercise1.java" afterDir="false" />
+    <list default="true" id="7f3bd26d-f4d2-4199-b671-dd12c9506d16" name="Changes" comment="final exam">
+      <change afterPath="$PROJECT_DIR$/src/final_exam/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/StudentGrades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,14 +131,7 @@
       <workItem from="1681918096042" duration="1815000" />
       <workItem from="1683710668997" duration="1469000" />
       <workItem from="1684908324592" duration="16800000" />
-      <workItem from="1685667821425" duration="3684000" />
-    </task>
-    <task id="LOCAL-00017" summary="RemoveFirstK">
-      <created>1676516778953</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1676516778953</updated>
+      <workItem from="1685667821425" duration="6221000" />
     </task>
     <task id="LOCAL-00018" summary="exercise2">
       <created>1676518726516</created>
@@ -475,14 +469,20 @@
       <option name="project" value="LOCAL" />
       <updated>1684927664906</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="final exam">
+      <created>1685671531742</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1685671531742</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise6" />
     <MESSAGE value="exercise7" />
     <MESSAGE value="assignment 1" />
     <MESSAGE value="assignment 2 - exercise 1" />
@@ -507,7 +507,8 @@
     <MESSAGE value="assignment8" />
     <MESSAGE value="midterm2" />
     <MESSAGE value="assignment9" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment9" />
+    <MESSAGE value="final exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="final exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
